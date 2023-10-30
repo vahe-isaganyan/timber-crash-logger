@@ -7,3 +7,6 @@ an error reporting implementation in Android applications.
 - Demonstrate error logging with Timber logging library.
 - Custom 'CrashReportingTree' to handle error logs.
 - UI with a button to trigger a logged error.
+
+**Update 10/29**
+- Added 'clearErrorButton' functionality.
